@@ -1,7 +1,7 @@
 var array = ['resources/icons/1.svg', 'resources/icons/2.svg', 'resources/icons/3.svg', 'resources/icons/4.svg', 'resources/icons/5.svg', 'resources/icons/6.svg'];
 
-var myShakeEvent = new Shake({
-    threshold: 15, // optional shake strength threshold
+var myShagit bkeEvent = new Shake({
+    threshold: 10, // optional shake strength threshold
     timeout: 1000 // optional, determines the frequency of event generation
 });
 
